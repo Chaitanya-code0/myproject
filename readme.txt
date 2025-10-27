@@ -1,1 +1,1 @@
-Hello Git World
+Hello Git WorldThis is a new feature!
